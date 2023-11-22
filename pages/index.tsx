@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <div>
       <Navbar />
-      <div>Platzi and Next.js!</div>
+      <div>Hello Platzi</div>
     </div>
   )
 }
